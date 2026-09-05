@@ -329,10 +329,5 @@ private struct OnboardingFooter: View {
     }
 }
 
-// MARK: - Preview
 
-struct MCRIOnboardingView_Previews: PreviewProvider {
-    static var previews: some View {
-        MCRIOnboardingView()
-    }
-}
+

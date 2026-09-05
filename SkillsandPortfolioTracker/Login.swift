@@ -8,7 +8,7 @@ import SwiftUI
 
 // MARK: - Design tokens
 
-enum MCRIColor {
+private enum MCRIOnboardingColor {
     static let navy      = Color(red: 0.055, green: 0.165, blue: 0.278)  // #0E2A47
     static let navy2     = Color(red: 0.071, green: 0.200, blue: 0.353)  // #12335A
     static let teal       = Color(red: 0.180, green: 0.749, blue: 0.647) // #2EBFA5
@@ -20,7 +20,7 @@ enum MCRIColor {
 
 // MARK: - Page model
 
-struct OnboardingPage: Identifiable {
+struct MCRIOnboardingPage: Identifiable {
     let id = UUID()
     let title: String
     let tagline: String
@@ -31,31 +31,31 @@ struct OnboardingPage: Identifiable {
     let featureSubtitle: String
 }
 
-private let onboardingPages: [OnboardingPage] = [
-    OnboardingPage(
+private let onboardingPages: [MCRIOnboardingPage] = [
+    MCRIOnboardingPage(
         title: "MCRI Skills\nPortfolio",
         tagline: "Show what you can do",
         featureIconName: "person.2.fill",
-        featureIconBackground: MCRIColor.mint,
-        featureIconForeground: MCRIColor.tealDark,
+        featureIconBackground: MCRIOnboardingColor.mint,
+        featureIconForeground: MCRIOnboardingColor.tealDark,
         featureTitle: "Share your progress",
         featureSubtitle: "Share your portfolio with confidence."
     ),
-    OnboardingPage(
+    MCRIOnboardingPage(
         title: "MCRI Skills\nPortfolio",
         tagline: "Show what you can do",
         featureIconName: "doc.text.fill",
         featureIconBackground: Color(red: 0.984, green: 0.941, blue: 0.863), // cream
-        featureIconForeground: MCRIColor.gold,
+        featureIconForeground: MCRIOnboardingColor.gold,
         featureTitle: "Add evidence",
         featureSubtitle: "Upload and organize proof of your work."
     ),
-    OnboardingPage(
+    MCRIOnboardingPage(
         title: "MCRI Skills\nPortfolio",
         tagline: "Show what you can do",
         featureIconName: "person.2.fill",
-        featureIconBackground: MCRIColor.mint,
-        featureIconForeground: MCRIColor.tealDark,
+        featureIconBackground: MCRIOnboardingColor.mint,
+        featureIconForeground: MCRIOnboardingColor.tealDark,
         featureTitle: "Share your progress",
         featureSubtitle: "Share your portfolio with confidence."
     )
@@ -63,7 +63,7 @@ private let onboardingPages: [OnboardingPage] = [
 
 // MARK: - Root onboarding view
 
-struct MCRIOnboardingView: View {
+struct MCRIOnboarding: View {
     @State private var currentPage = 0
     @Namespace private var featureRowNamespace
 
@@ -73,7 +73,7 @@ struct MCRIOnboardingView: View {
             // Slides — TabView gives us the native swipe + slide animation for free.
             TabView(selection: $currentPage) {
                 ForEach(Array(onboardingPages.enumerated()), id: \.element.id) { index, page in
-                    OnboardingPageView(page: page)
+                    MCRIOnboardingPageView(page: page)
                         .tag(index)
                 }
             }
@@ -91,35 +91,35 @@ struct MCRIOnboardingView: View {
 
 // MARK: - Single slide
 
-private struct OnboardingPageView: View {
-    let page: OnboardingPage
+private struct MCRIOnboardingPageView: View {
+    let page: MCRIOnboardingPage
 
     var body: some View {
         VStack(alignment: .leading, spacing: 0) {
 
             // Logo mark
             RoundedRectangle(cornerRadius: 16, style: .continuous)
-                .fill(MCRIColor.navy)
+                .fill(MCRIOnboardingColor.navy)
                 .frame(width: 56, height: 56)
                 .overlay(
                     Image(systemName: "chevron.up.chevron.down") // stand-in glyph; swap for custom logo asset
                         .resizable()
                         .scaledToFit()
                         .frame(width: 26, height: 26)
-                        .foregroundColor(MCRIColor.teal)
+                        .foregroundColor(MCRIOnboardingColor.teal)
                 )
                 .padding(.bottom, 22)
 
             Text(page.title)
                 .font(.system(size: 32, weight: .heavy, design: .default))
-                .foregroundColor(MCRIColor.navy)
+                .foregroundColor(MCRIOnboardingColor.navy)
                 .lineSpacing(2)
                 .fixedSize(horizontal: false, vertical: true)
                 .padding(.bottom, 10)
 
             Text(page.tagline)
                 .font(.system(size: 17, weight: .semibold))
-                .foregroundColor(MCRIColor.tealDark)
+                .foregroundColor(MCRIOnboardingColor.tealDark)
                 .padding(.bottom, 14)
 
             // Illustration placeholder — swap for a real image/SVG asset.
@@ -140,7 +140,7 @@ private struct OnboardingPageView: View {
 // MARK: - Feature row (animates in each time its slide becomes active)
 
 private struct FeatureRow: View {
-    let page: OnboardingPage
+    let page: MCRIOnboardingPage
     @State private var appeared = false
 
     var body: some View {
@@ -156,10 +156,10 @@ private struct FeatureRow: View {
             VStack(alignment: .leading, spacing: 4) {
                 Text(page.featureTitle)
                     .font(.system(size: 16, weight: .bold))
-                    .foregroundColor(MCRIColor.navy)
+                    .foregroundColor(MCRIOnboardingColor.navy)
                 Text(page.featureSubtitle)
                     .font(.system(size: 14))
-                    .foregroundColor(MCRIColor.muted)
+                    .foregroundColor(MCRIOnboardingColor.muted)
             }
         }
         .opacity(appeared ? 1 : 0)
@@ -178,7 +178,7 @@ private struct IllustrationView: View {
     var body: some View {
         ZStack {
             Ellipse()
-                .fill(MCRIColor.mint)
+                .fill(MCRIOnboardingColor.mint)
                 .padding(10)
 
             HStack(spacing: 20) {
@@ -187,7 +187,7 @@ private struct IllustrationView: View {
                         .fill(Color(red: 0.961, green: 0.780, blue: 0.604))
                         .frame(width: 60, height: 60)
                     RoundedRectangle(cornerRadius: 18)
-                        .fill(MCRIColor.teal)
+                        .fill(MCRIOnboardingColor.teal)
                         .frame(width: 70, height: 80)
                 }
 
@@ -197,7 +197,7 @@ private struct IllustrationView: View {
                     .overlay(
                         HStack(spacing: 6) {
                             Circle()
-                                .fill(MCRIColor.teal)
+                                .fill(MCRIOnboardingColor.teal)
                                 .frame(width: 24, height: 24)
                                 .overlay(
                                     Image(systemName: "checkmark")
@@ -216,7 +216,7 @@ private struct IllustrationView: View {
                         .fill(Color(red: 0.906, green: 0.647, blue: 0.420))
                         .frame(width: 56, height: 56)
                     RoundedRectangle(cornerRadius: 16)
-                        .fill(MCRIColor.navy2)
+                        .fill(MCRIOnboardingColor.navy2)
                         .frame(width: 64, height: 70)
                 }
             }
@@ -225,25 +225,25 @@ private struct IllustrationView: View {
                 HStack {
                     Spacer()
                     RoundedRectangle(cornerRadius: 14)
-                        .fill(MCRIColor.navy2)
+                        .fill(MCRIOnboardingColor.navy2)
                         .frame(width: 170, height: 110)
                         .overlay(
                             VStack(alignment: .leading, spacing: 8) {
                                 HStack(spacing: 6) {
-                                    Circle().fill(MCRIColor.gold).frame(width: 6, height: 6)
-                                    Circle().fill(MCRIColor.teal).frame(width: 6, height: 6)
+                                    Circle().fill(MCRIOnboardingColor.gold).frame(width: 6, height: 6)
+                                    Circle().fill(MCRIOnboardingColor.teal).frame(width: 6, height: 6)
                                 }
                                 Capsule().fill(Color.white.opacity(0.85)).frame(width: 110, height: 6)
                                 Capsule().fill(Color.white.opacity(0.5)).frame(width: 130, height: 6)
                                 Capsule().fill(Color.white.opacity(0.85)).frame(width: 90, height: 6)
-                                Capsule().fill(MCRIColor.gold.opacity(0.8)).frame(width: 120, height: 6)
+                                Capsule().fill(MCRIOnboardingColor.gold.opacity(0.8)).frame(width: 120, height: 6)
                             }
                             .padding(14),
                             alignment: .topLeading
                         )
                         .overlay(
                             Circle()
-                                .fill(MCRIColor.teal)
+                                .fill(MCRIOnboardingColor.teal)
                                 .frame(width: 40, height: 40)
                                 .overlay(
                                     Image(systemName: "chevron.left.slash.chevron.right")
@@ -274,7 +274,7 @@ private struct OnboardingFooter: View {
             HStack(spacing: 8) {
                 ForEach(0..<pageCount, id: \.self) { index in
                     Capsule()
-                        .fill(index == currentPage ? MCRIColor.teal : Color(red: 0.843, green: 0.871, blue: 0.902))
+                        .fill(index == currentPage ? MCRIOnboardingColor.teal : Color(red: 0.843, green: 0.871, blue: 0.902))
                         .frame(width: index == currentPage ? 22 : 8, height: 8)
                         .animation(.easeInOut(duration: 0.35), value: currentPage)
                         .onTapGesture {
@@ -292,7 +292,7 @@ private struct OnboardingFooter: View {
                     }
                 }
                 .font(.system(size: 15, weight: .semibold))
-                .foregroundColor(MCRIColor.muted)
+                .foregroundColor(MCRIOnboardingColor.muted)
                 .opacity(isLastPage ? 0 : 1)
                 .disabled(isLastPage)
 
@@ -317,7 +317,7 @@ private struct OnboardingFooter: View {
                     .padding(.horizontal, 26)
                     .padding(.vertical, 14)
                     .background(
-                        Capsule().fill(isLastPage ? MCRIColor.tealDark : MCRIColor.navy)
+                        Capsule().fill(isLastPage ? MCRIOnboardingColor.tealDark : MCRIOnboardingColor.navy)
                     )
                 }
                 .buttonStyle(.plain)
@@ -336,3 +336,4 @@ struct MCRIOnboardingView_Previews: PreviewProvider {
         MCRIOnboardingView()
     }
 }
+
