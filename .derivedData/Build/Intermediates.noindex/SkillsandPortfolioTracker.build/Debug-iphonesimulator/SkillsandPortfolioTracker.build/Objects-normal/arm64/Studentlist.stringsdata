@@ -1,0 +1,16 @@
+{
+  "source": "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Studentlist.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Students",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 21
+        }
+      }
+    ]
+  },
+  "version": 1
+}

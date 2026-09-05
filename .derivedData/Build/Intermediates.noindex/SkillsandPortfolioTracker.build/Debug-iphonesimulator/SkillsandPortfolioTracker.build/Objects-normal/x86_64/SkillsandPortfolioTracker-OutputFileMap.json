@@ -1,0 +1,179 @@
+{
+  "" : {
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTracker-primary.dia",
+    "emit-module-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTracker-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTracker-primary-emit-module.dia",
+    "pch" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTracker-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTracker-primary.swiftdeps"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/AccountScreens.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AccountScreens~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Admin.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Admin~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/AdminView.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/AdminView~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/ContentView.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Employer.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Employer~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/EmployerView.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/EmployerView~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Facilitator.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Facilitator~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Login.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Login~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/ManageUsersView.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/ManageUsersView~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Models.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Models~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/RoleRootView.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/RoleRootView~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/SkillsandPortfolioTrackerApp.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/SkillsandPortfolioTrackerApp~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Student.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Student~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/StudentView.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/StudentView~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Studentlist.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Studentlist~partial.swiftmodule"
+  },
+  "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Transition.swift" : {
+    "const-values" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition.swiftconstvalues",
+    "dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition.d",
+    "diagnostics" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition.o",
+    "llvm-bc" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition.bc",
+    "object" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition.o",
+    "swift-dependencies" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition.swiftdeps",
+    "swiftmodule" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/SkillsandPortfolioTracker.build/Debug-iphonesimulator/SkillsandPortfolioTracker.build/Objects-normal/x86_64/Transition~partial.swiftmodule"
+  }
+}

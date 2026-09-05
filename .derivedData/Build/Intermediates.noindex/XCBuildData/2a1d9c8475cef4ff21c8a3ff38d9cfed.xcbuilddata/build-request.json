@@ -1,0 +1,64 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "03c64c0a7f4819f5c301985a1890df25955d8723cf6ade5ae4a9458ed5a93a5e"
+    }
+  ],
+  "containerPath" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator26.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "i386",
+        "x86_64"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Products",
+      "derivedDataPath" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData",
+      "indexDataStoreFolderPath" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/wadzie/Desktop/SkillsandPortfolioTracker/.derivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

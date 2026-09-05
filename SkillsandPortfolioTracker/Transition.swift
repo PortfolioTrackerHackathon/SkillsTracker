@@ -65,10 +65,10 @@ private let onboardingPages: [OnboardingPage] = [
 
 struct MCRIOnboardingView: View {
     @State private var currentPage = 0
-    @Namespace private var featureRowNamespace
 
     var body: some View {
-        VStack(spacing: 0) {
+        NavigationStack {
+            VStack(spacing: 0) {
 
             // Slides — TabView gives us the native swipe + slide animation for free.
             TabView(selection: $currentPage) {
@@ -86,6 +86,8 @@ struct MCRIOnboardingView: View {
             )
         }
         .background(Color.white)
+        .navigationBarTitleDisplayMode(.inline)
+        }
     }
 }
 
@@ -264,12 +266,12 @@ private struct IllustrationView: View {
 private struct OnboardingFooter: View {
     @Binding var currentPage: Int
     let pageCount: Int
+    @State private var goToSignUp = false
 
     private var isLastPage: Bool { currentPage == pageCount - 1 }
 
     var body: some View {
         VStack(spacing: 20) {
-            // Dots
             HStack(spacing: 8) {
                 ForEach(0..<pageCount, id: \.self) { index in
                     Capsule()
@@ -286,9 +288,7 @@ private struct OnboardingFooter: View {
 
             HStack {
                 Button("Skip") {
-                    withAnimation(.easeInOut(duration: 0.45)) {
-                        currentPage = pageCount - 1
-                    }
+                    goToSignUp = true
                 }
                 .font(.system(size: 15, weight: .semibold))
                 .foregroundColor(MCRIColor.muted)
@@ -298,10 +298,10 @@ private struct OnboardingFooter: View {
                 Spacer()
 
                 Button {
-                    withAnimation(.easeInOut(duration: 0.45)) {
-                        if isLastPage {
-                            currentPage = 0 // or trigger dismissal / navigation to the app
-                        } else {
+                    if isLastPage {
+                        goToSignUp = true
+                    } else {
+                        withAnimation(.easeInOut(duration: 0.45)) {
                             currentPage += 1
                         }
                     }
@@ -325,6 +325,9 @@ private struct OnboardingFooter: View {
         .padding(.horizontal, 28)
         .padding(.bottom, 34)
         .padding(.top, 12)
+        .navigationDestination(isPresented: $goToSignUp) {
+            LoginView()
+        }
     }
 }
 
@@ -333,5 +336,6 @@ private struct OnboardingFooter: View {
 struct MCRIOnboardingView_Previews: PreviewProvider {
     static var previews: some View {
         MCRIOnboardingView()
+            .environmentObject(SchoolDataManager())
     }
 }

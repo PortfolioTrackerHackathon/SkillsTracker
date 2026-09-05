@@ -5,14 +5,6 @@
 //  Created by octavia on 5/9/2026.
 //
 
-import Foundation
-//
-//  ManageUsersView.swift
-//  Skills Portfolio Tracker
-//
-//  User management screen for students and facilitators.
-//
-
 import SwiftUI
 
 // MARK: - Manage Users Sheet

@@ -1,0 +1,96 @@
+{
+  "source": "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Login.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sign in",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Could not log in",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continues to the %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log in",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select a role and sign in. You’ll open that role’s portal.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "I am logging in as",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Role",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hide password",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show password",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log in to %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 90
+        }
+      }
+    ]
+  },
+  "version": 1
+}
