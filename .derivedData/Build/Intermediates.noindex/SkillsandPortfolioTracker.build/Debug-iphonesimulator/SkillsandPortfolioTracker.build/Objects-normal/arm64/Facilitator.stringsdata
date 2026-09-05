@@ -1,0 +1,504 @@
+{
+  "source": "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Facilitator.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Facilitator Portal",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search students...",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 228
+        }
+      },
+      {
+        "comment": "",
+        "key": "Global Alerts",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student Roster",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hello, %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Facilitator Portal",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 130
+        }
+      },
+      {
+        "comment": "",
+        "key": "No new notifications",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit profile",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student Not Found",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 370
+        }
+      },
+      {
+        "comment": "",
+        "key": "There are no students available.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "No student matches \"%@\".",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student Review",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 439
+        }
+      },
+      {
+        "comment": "",
+        "key": "This student is no longer in the system.",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 434
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student Not Found",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 429
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete Skill?",
+        "location": {
+          "startingColumn": 13,
+          "startingLine": 764
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Skill",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 455
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 472
+        }
+      },
+      {
+        "comment": "",
+        "key": "Candidate Profile",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 560
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pending Review (Action Required)",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 618
+        }
+      },
+      {
+        "comment": "",
+        "key": "Needs Improvement",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 646
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified Portfolio",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 673
+        }
+      },
+      {
+        "comment": "",
+        "key": "Soft Skills",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 701
+        }
+      },
+      {
+        "comment": "",
+        "key": "Technical Skills",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 736
+        }
+      },
+      {
+        "comment": "",
+        "key": "Progress",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 588
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/%lld",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 595
+        }
+      },
+      {
+        "comment": "",
+        "key": "(%lld%%)",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 600
+        }
+      },
+      {
+        "comment": "",
+        "key": "All evidence reviewed!",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 624
+        }
+      },
+      {
+        "comment": "",
+        "key": "No evidence requires improvement.",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 651
+        }
+      },
+      {
+        "comment": "",
+        "key": "No demonstrated skills yet.",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 678
+        }
+      },
+      {
+        "comment": "",
+        "key": "No soft skills added yet.",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 706
+        }
+      },
+      {
+        "comment": "",
+        "key": "No technical skills added yet.",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 741
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 775
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 779
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove \"%@\" from this student's skills?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 783
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete %@",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 820
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Skill",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 902
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skill Details",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 859
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skill Name",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 863
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 868
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Skill",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 887
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 913
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Student",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 1030
+        }
+      },
+      {
+        "comment": "",
+        "key": "Student Information",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 984
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 988
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 993
+        }
+      },
+      {
+        "comment": "",
+        "key": "Program Level",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1005
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Changes",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1013
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1041
+        }
+      },
+      {
+        "comment": "",
+        "key": "Review",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 1090
+        }
+      },
+      {
+        "comment": "",
+        "key": "Evidence: %@",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 1132
+        }
+      },
+      {
+        "comment": "",
+        "key": "Review Evidence",
+        "location": {
+          "startingColumn": 17,
+          "startingLine": 1296
+        }
+      },
+      {
+        "comment": "",
+        "key": "Evidence Information",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 1192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Decision",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1229
+        }
+      },
+      {
+        "comment": "",
+        "key": "Facilitator Feedback",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 1254
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skill",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1196
+        }
+      },
+      {
+        "comment": "",
+        "key": "Evidence Type",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attachment",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1210
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verdict",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1232
+        }
+      },
+      {
+        "comment": "",
+        "key": "Submit Decision",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 1282
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1307
+        }
+      }
+    ]
+  },
+  "version": 1
+}

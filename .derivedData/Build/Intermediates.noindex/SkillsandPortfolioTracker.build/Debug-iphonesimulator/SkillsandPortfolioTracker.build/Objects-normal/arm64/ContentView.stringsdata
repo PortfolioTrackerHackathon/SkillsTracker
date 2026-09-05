@@ -1,0 +1,32 @@
+{
+  "source": "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Welcome To MCRI",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skills & Portfolio Tracker",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Take a tour",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 44
+        }
+      }
+    ]
+  },
+  "version": 1
+}

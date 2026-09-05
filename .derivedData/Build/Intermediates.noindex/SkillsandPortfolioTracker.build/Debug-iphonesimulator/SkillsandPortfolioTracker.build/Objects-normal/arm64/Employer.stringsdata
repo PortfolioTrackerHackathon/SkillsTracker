@@ -1,0 +1,152 @@
+{
+  "source": "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Employer.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Employer Portal",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search students",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Talent pool",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome, %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 34
+        }
+      },
+      {
+        "comment": "",
+        "key": "Review student portfolios and verified skills.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "No students match your search.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit profile",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Portfolio",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Candidate",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skills",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified evidence",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 134
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Level",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "No skills listed yet.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 143
+        }
+      },
+      {
+        "comment": "",
+        "key": "No demonstrated evidence yet.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 154
+        }
+      }
+    ]
+  },
+  "version": 1
+}
