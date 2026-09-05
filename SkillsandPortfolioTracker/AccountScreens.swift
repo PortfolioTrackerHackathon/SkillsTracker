@@ -197,7 +197,7 @@ struct SignOutButton: View {
             }
             Button("Cancel", role: .cancel) {}
         } message: {
-            Text("You will return to the welcome screen and can log in as a different role.")
+            Text("You will return to the login page.")
         }
     }
 }

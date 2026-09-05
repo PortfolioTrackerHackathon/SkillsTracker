@@ -267,7 +267,7 @@ struct FacilitatorView: View {
     }
 }
 
-// MARK: - STAT CARD
+// MARK: STAT CARD
 
 struct StatCard: View {
 
@@ -307,7 +307,7 @@ struct StatCard: View {
     }
 }
 
-// MARK: - STUDENT ROW
+// MARK: STUDENT ROW
 
 struct StudentRow: View {
 
@@ -350,7 +350,7 @@ struct StudentRow: View {
     }
 }
 
-// MARK: - EMPTY SEARCH VIEW
+// MARK: EMPTY SEARCH VIEW
 
 struct EmptyStudentSearchView: View {
 
