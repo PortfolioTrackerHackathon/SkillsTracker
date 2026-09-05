@@ -1,0 +1,536 @@
+{
+  "source": "/Users/wadzie/Desktop/SkillsandPortfolioTracker/SkillsandPortfolioTracker/Student.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Continue building your skills",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent activity",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage your skills",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add, edit or delete your skills",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 177
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld of %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "skills demonstrated",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 211
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "complete",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "LTC Challenge 04 submitted for review",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "Today, 8:30 AM",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "Portfolio",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 568
+        }
+      },
+      {
+        "comment": "",
+        "key": "Demonstrated Skills",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 540
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skills In Progress",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 552
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Portfolio",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 512
+        }
+      },
+      {
+        "comment": "",
+        "key": "A collection of your skills and evidence.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 516
+        }
+      },
+      {
+        "comment": "",
+        "key": "Evidence",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 752
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Evidence",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 735
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Evidence",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 693
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attach photos, videos and other evidence that proves your skills.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 697
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Evidence",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 713
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attach a photo or video",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 716
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Evidence",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1015
+        }
+      },
+      {
+        "comment": "",
+        "key": "Evidence Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 856
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attach Photo",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 873
+        }
+      },
+      {
+        "comment": "",
+        "key": "Attach Video",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 932
+        }
+      },
+      {
+        "comment": "",
+        "key": "Evidence title",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 859
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 864
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Photo",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 886
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select a photo from your device",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 892
+        }
+      },
+      {
+        "comment": "",
+        "key": "Photo attached",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 893
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Video",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 946
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select a video from your device",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 952
+        }
+      },
+      {
+        "comment": "",
+        "key": "Video attached",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 953
+        }
+      },
+      {
+        "comment": "",
+        "key": "Video attached successfully",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 982
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Evidence",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1000
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1020
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1222
+        }
+      },
+      {
+        "comment": "",
+        "key": "MCRI Student",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile Information",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1119
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1174
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Skills",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1346
+        }
+      },
+      {
+        "comment": "",
+        "key": "Technical Skills",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 1338
+        }
+      },
+      {
+        "comment": "",
+        "key": "Soft Skills",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 1342
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Skill",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1475
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skill",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1463
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skill name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 1464
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1465
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1469
+        }
+      },
+      {
+        "comment": "",
+        "key": "Technical",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1466
+        }
+      },
+      {
+        "comment": "",
+        "key": "Soft",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1467
+        }
+      },
+      {
+        "comment": "",
+        "key": "In progress",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1470
+        }
+      },
+      {
+        "comment": "",
+        "key": "Demonstrated",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1471
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1479
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1482
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Skill",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1651
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skill Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1538
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Icon",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1570
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skill name",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1541
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1546
+        }
+      },
+      {
+        "comment": "",
+        "key": "Status",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 1558
+        }
+      },
+      {
+        "comment": "",
+        "key": "Technical",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1550
+        }
+      },
+      {
+        "comment": "",
+        "key": "Soft",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1553
+        }
+      },
+      {
+        "comment": "",
+        "key": "In progress",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1562
+        }
+      },
+      {
+        "comment": "",
+        "key": "Demonstrated",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1565
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Skill",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1631
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1659
+        }
+      }
+    ]
+  },
+  "version": 1
+}
