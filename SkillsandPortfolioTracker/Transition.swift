@@ -56,8 +56,8 @@ private let onboardingPages: [OnboardingPage] = [
         featureIconName: "person.2.fill",
         featureIconBackground: MCRIColor.mint,
         featureIconForeground: MCRIColor.tealDark,
-        featureTitle: "Share your progress",
-        featureSubtitle: "Share your portfolio with confidence."
+        featureTitle: "Track skills",
+        featureSubtitle: "Log your learning and skills in one place."
     )
 ]
 
