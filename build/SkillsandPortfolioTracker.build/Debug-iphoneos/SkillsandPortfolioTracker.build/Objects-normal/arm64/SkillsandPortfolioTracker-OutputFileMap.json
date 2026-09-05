@@ -1,0 +1,79 @@
+{
+  "" : {
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTracker-primary.dia",
+    "emit-module-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTracker-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTracker-primary-emit-module.dia",
+    "pch" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTracker-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTracker-primary.swiftdeps"
+  },
+  "/Users/TAKUDZWA/Documents/SkillsTracker/SkillsandPortfolioTracker/Admin.swift" : {
+    "const-values" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin.swiftconstvalues",
+    "dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin.d",
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin.o",
+    "llvm-bc" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin.bc",
+    "object" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin.o",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin.swiftdeps",
+    "swiftmodule" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Admin~partial.swiftmodule"
+  },
+  "/Users/TAKUDZWA/Documents/SkillsTracker/SkillsandPortfolioTracker/ContentView.swift" : {
+    "const-values" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/TAKUDZWA/Documents/SkillsTracker/SkillsandPortfolioTracker/Employer.swift" : {
+    "const-values" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer.swiftconstvalues",
+    "dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer.d",
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer.o",
+    "llvm-bc" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer.bc",
+    "object" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer.o",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer.swiftdeps",
+    "swiftmodule" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Employer~partial.swiftmodule"
+  },
+  "/Users/TAKUDZWA/Documents/SkillsTracker/SkillsandPortfolioTracker/Facilitator.swift" : {
+    "const-values" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator.swiftconstvalues",
+    "dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator.d",
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator.o",
+    "llvm-bc" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator.bc",
+    "object" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator.o",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator.swiftdeps",
+    "swiftmodule" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Facilitator~partial.swiftmodule"
+  },
+  "/Users/TAKUDZWA/Documents/SkillsTracker/SkillsandPortfolioTracker/SkillsandPortfolioTrackerApp.swift" : {
+    "const-values" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp.swiftconstvalues",
+    "dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp.d",
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp.o",
+    "llvm-bc" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp.bc",
+    "object" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp.o",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp.swiftdeps",
+    "swiftmodule" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/SkillsandPortfolioTrackerApp~partial.swiftmodule"
+  },
+  "/Users/TAKUDZWA/Documents/SkillsTracker/SkillsandPortfolioTracker/Student.swift" : {
+    "const-values" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student.swiftconstvalues",
+    "dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student.d",
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student.o",
+    "llvm-bc" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student.bc",
+    "object" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student.o",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student.swiftdeps",
+    "swiftmodule" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/Student~partial.swiftmodule"
+  },
+  "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/TAKUDZWA/Documents/SkillsTracker/build/SkillsandPortfolioTracker.build/Debug-iphoneos/SkillsandPortfolioTracker.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

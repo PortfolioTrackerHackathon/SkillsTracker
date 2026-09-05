@@ -1,0 +1,248 @@
+{
+  "source": "/Users/TAKUDZWA/Documents/SkillsTracker/SkillsandPortfolioTracker/Student.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Candidate profile",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bongani",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "MCRI learner · Software development",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "8 skills demonstrated · 14 verified evidence items",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "78%",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 117
+        }
+      },
+      {
+        "comment": "",
+        "key": "Overall progress",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 120
+        }
+      },
+      {
+        "comment": "",
+        "key": "Strong progress!",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 127
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tendai has demonstrated solid skills and a commitment to continuous growth.",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "78%",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Technical skills",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "Essential skills",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 194
+        }
+      },
+      {
+        "comment": "",
+        "key": "Featured Evidence",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 212
+        }
+      },
+      {
+        "comment": "",
+        "key": "Number Guessing Game",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 230
+        }
+      },
+      {
+        "comment": "",
+        "key": "A Python-based console game with loops, conditionals and user input.",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Verified",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "View evidence",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 259
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share profile",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 283
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile visibility: Anywhere with link",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Action",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 332
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 100,
+          "startingLine": 332
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Photo",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 515
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 517
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add caption for %@:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 494
+        }
+      },
+      {
+        "comment": "",
+        "key": "Write a short note about this...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 496
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 505
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Repository Link",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 558
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 560
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Git & GitHub Repository Link:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 536
+        }
+      },
+      {
+        "comment": "",
+        "key": "https://github.com/username/repo",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 538
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Link",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 548
+        }
+      }
+    ]
+  },
+  "version": 1
+}
