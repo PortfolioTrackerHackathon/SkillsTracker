@@ -40,7 +40,7 @@ struct EmployerDashboard: View {
                     .padding(.vertical, 4)
                 }
 
-                Section("Talent pool") {
+                Section("Students") {
                     if filteredStudents.isEmpty {
                         Text("No students match your search.")
                             .foregroundStyle(.secondary)
