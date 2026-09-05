@@ -102,7 +102,7 @@ private struct OnboardingPageView: View {
                 .fill(MCRIColor.navy)
                 .frame(width: 56, height: 56)
                 .overlay(
-                    Image(systemName: "chevron.up.chevron.down") // stand-in glyph; swap for custom logo asset
+                    Image(systemName: "chevron.up.chevron.down")
                         .resizable()
                         .scaledToFit()
                         .frame(width: 26, height: 26)
@@ -122,7 +122,6 @@ private struct OnboardingPageView: View {
                 .foregroundColor(MCRIColor.tealDark)
                 .padding(.bottom, 14)
 
-            // Illustration placeholder — swap for a real image/SVG asset.
             IllustrationView()
                 .frame(height: 220)
                 .padding(.top, 6)
