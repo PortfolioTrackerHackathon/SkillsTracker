@@ -21,6 +21,7 @@ struct LoginView: View {
     @State private var errorMessage = ""
     @State private var showPassword = false
     @State private var didLogin = false
+    @State private var specificStudentName: String? = nil
 
     private var canSubmit: Bool {
         !username.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty && !password.isEmpty
@@ -58,7 +59,7 @@ struct LoginView: View {
                     .foregroundStyle(PortfolioTheme.teal)
 
                 VStack(spacing: 14) {
-                    loginField(title: "Username", text: $username, placeholder: "Username", isSecure: false)
+                    loginField(title: selectedRole == .student ? "Student Name" : "Username", text: $username, placeholder: selectedRole == .student ? "Enter your name" : "Username", isSecure: false)
                     loginField(title: "Password", text: $password, placeholder: "Password", isSecure: !showPassword)
 
                     Button {
@@ -110,7 +111,13 @@ struct LoginView: View {
     private var destinationView: some View {
         switch selectedRole {
         case .student:
-            Studentlist()
+            if let specificName = specificStudentName {
+                // Navigate directly to the specific student's HomeView
+                HomeView(userName: specificName)
+            } else {
+                // Show the student list
+                Studentlist()
+            }
         case .facilitator:
             FacilitatorView()
         case .admin:
@@ -152,6 +159,13 @@ struct LoginView: View {
         if let message = dataManager.login(username: username, password: password, role: selectedRole) {
             errorMessage = message
         } else {
+            // Check if the username matches a student name for direct navigation
+            if selectedRole == .student {
+                let matchedStudent = demoStudentNames.first { 
+                    $0.localizedCaseInsensitiveCompare(username.trimmingCharacters(in: .whitespacesAndNewlines)) == .orderedSame 
+                }
+                specificStudentName = matchedStudent
+            }
             didLogin = true
         }
     }
@@ -162,4 +176,12 @@ struct LoginView: View {
         LoginView()
             .environmentObject(SchoolDataManager())
     }
+}
+
+#Preview("Student Role") {
+    NavigationStack {
+        LoginView()
+            .environmentObject(SchoolDataManager())
+    }
+    .previewDisplayName("Student Login")
 }

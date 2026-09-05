@@ -115,8 +115,8 @@ struct RoleAccount: Identifiable, Hashable {
         RoleAccount(
             username: "facilitator",
             password: "facilitator123",
-            displayName: "Sarah Johnson",
-            email: "sarah@mcri.edu",
+            displayName: "Peggy Mkoma",
+            email: "peggymkoma@mcri.edu",
             role: .facilitator
         ),
         RoleAccount(
@@ -129,8 +129,8 @@ struct RoleAccount: Identifiable, Hashable {
         RoleAccount(
             username: "employer",
             password: "employer123",
-            displayName: "Alex Recruiter",
-            email: "employer@mcri.edu",
+            displayName: "Lenon Mudenda",
+            email: "lenonmudenda@mcri.edu",
             role: .employer
         )
     ]
